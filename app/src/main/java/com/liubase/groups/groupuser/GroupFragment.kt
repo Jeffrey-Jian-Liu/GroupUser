@@ -4,6 +4,7 @@ import android.os.*
 import android.support.v4.app.*
 import android.view.*
 import android.widget.*
+import com.liubase.groups.groups.*
 
 /* Created by Jeffrey Liu on 11/04/2018. */
 class GroupFragment : Fragment() {

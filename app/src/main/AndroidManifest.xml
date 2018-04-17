@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.liubase.groups.groupuser">
+    package="com.liubase.groups.groups">
 
     <application
         android:allowBackup="true"
